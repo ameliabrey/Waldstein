@@ -1,4 +1,4 @@
-###Waldstein Phrase Lengths
+### Waldstein Phrase Lengths
 
 An experiment with a visualization of musical form using data from the DCML Beethoven Piano Sonatas corpus.
 Phrase lengths in relation to phrase onset measure number within the movement: ergo the X axis shows musical time
